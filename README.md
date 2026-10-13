@@ -31,7 +31,7 @@ npx tsx src/db/seed.ts      # seed demo data
 npm run dev
 ```
 
-## Demo accounts (password: `password123`)
+## Demo account emails
 | Role     | Email                     |
 |----------|---------------------------|
 | Admin    | admin@mabellebump.com     |
